@@ -1,3 +1,3 @@
 PARTE DE LA BASE DE DATOS
-Admin:  Admin
+Usuario:  Admin
 Contraseña: pipe2012
